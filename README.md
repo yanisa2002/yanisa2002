@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,c,flutter,dart,py,js,html,css,react,figma" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,flutter,py,js,html,css,react,figma" />
   </a>
+  ![Yanisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanisa2002&show_icons=true&theme=transparent)
 </p>
 
-![Yanisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanisa2002&show_icons=true&theme=transparent)
+
