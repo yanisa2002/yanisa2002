@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,c,flutter,dart,py,js,html,css,react,figma" />
+  </a>
+</p>
+
+![Yanisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanisa2002&show_icons=true&theme=transparent)
